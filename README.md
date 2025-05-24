@@ -1,4 +1,4 @@
-Portfolio của Quách Hoàng Bò - Thực Tập Sinh ReactJS
+Portfolio của Quách Hoàng Bo - Thực Tập Sinh ReactJS
 Chào mọi người! Mình là Quách Hoàng Bo, một sinh viên năm cuối chuyên ngành Lập trình Mobile tại Cao đẳng FPT. Đây là kho lưu trữ GitHub chứa portfolio cá nhân của mình, nơi mình thể hiện hành trình học tập và phát triển kỹ năng lập trình, đặc biệt là với ReactJS – niềm đam mê lớn nhất của mình hiện tại! 
 Về Tôi
 Mình sinh ngày 12/07/2004, hiện đang sống tại Việt Nam. Mình rất yêu thích công nghệ và luôn nỗ lực học hỏi để trở thành một lập trình viên web chuyên nghiệp trong tương lai. Ngoài ReactJS, mình cũng có kinh nghiệm với HTML, CSS, JavaScript, và một chút Firebase để quản lý cơ sở dữ liệu. Mình thích làm việc nhóm, giải quyết vấn đề, và đặc biệt là tạo ra những giao diện đẹp mắt, thân thiện với người dùng! (⁠⁠´⁠ω⁠｀⁠⁠)  
