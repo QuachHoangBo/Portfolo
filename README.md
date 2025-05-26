@@ -4,12 +4,11 @@
 🎓 HỌC VẤN: Sinh viên năm cuối Cao đẳng FPT, chuyên ngành Lập trình Mobile (2022-2024).📅 NGÀY SINH: 12/07/2004.🌍 ĐỊA ĐIỂM: Việt Nam.⏰ CẬP NHẬT LATEST: 10:06 PM +07, Thứ Bảy, 24/05/2025.💡 Mình đam mê công nghệ, thích học hỏi và làm việc nhóm. Mục tiêu của mình là trở thành một lập trình viên ReactJS chuyên nghiệp trong tương lai! (⁠⁠´⁠ω⁠｀⁠⁠)  
 💻 KỸ NĂNG CỦA MÌNH
 
-🌟 LẬP TRÌNH DI ĐỘNG: ReactJS (Khá) 🚀  
 🌟 PHÁT TRIỂN WEB: HTML/CSS (Giỏi) 🌐, JavaScript (Khá) 📜, ReactJS (Khá) ⚛️  
 🌟 QUẢN LÝ CƠ SỞ DỮ LIỆU: Firebase (Cơ bản) 🔥  
 🌟 API: Tích hợp và sử dụng (Cơ bản) 🔗  
-🌟 UI/UX: Thiết kế giao diện thân thiện (Cơ bản) 🎨  
-🌟 KỸ NĂNG MỀM: Giao tiếp 🗣️, Làm việc nhóm 🤝, Quản lý thời gian ⏰ (Khá), Giải quyết vấn đề 🧩 (Cơ bản).  
+🌟 UI/UX: Thiết kế giao diện thân thiện ( Khá ) 🎨  
+🌟 KỸ NĂNG MỀM: Giao tiếp 🗣️, Làm việc nhóm 🤝, Quản lý thời gian ⏰ (Khá), Giải quyết vấn đề 🧩 (Tốt).  
 🌟 PHƯƠNG PHÁP QUẢN LÝ: Agile Scrum (Kiến thức cơ bản) 📈  
 🌟 TIẾNG ANH: Giao tiếp và đọc hiểu tài liệu (Cơ bản) 🇬🇧
 
