@@ -1,7 +1,7 @@
 :root {
   --primary-color: #043873;
   --accent-color: #4f9cf9;
-  --light-color: #fffffff5;
+  --light-color: #ffffff;
   --secondary-color: #ffe492;
 }
 
@@ -120,7 +120,7 @@ nav a {
 .headingPage1 {
   width: 100%;
   padding: 5rem 3rem;
-  background-color: var(--primary-color);
+  background-color: #0438737a;
   display: flex;
   justify-content: space-between;
 }
